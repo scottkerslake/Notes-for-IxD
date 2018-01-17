@@ -1,0 +1,29 @@
+///////////////////RESISTORS\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Diode =  directional 
+
+
+COLORED BANDS MEAN AMOUNT OF RESISTANCE
+
+////////////////////OHMS LAW\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+I = current
+v = voltage 
+R = resistance
+
+V = I * R
+
+or any combination of the formula so you don't blow shit up
+
+///////////Kirchoff's voltage law\\\\\\\\\\\\\\\\\\\\\\\\
+
+Voltage source must = voltage used in loop
+
+Keep everything balanced.
+
+Calculate and put a resistor in if the usage becomes unbalanced
+
+Fritzing
+
+Hobbyhour.com Resistor color calculator
+
