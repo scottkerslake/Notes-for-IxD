@@ -23,7 +23,7 @@ Keep everything balanced.
 
 Calculate and put a resistor in if the usage becomes unbalanced
 
-Fritzing
+Fritzing for code stuff
 
 Hobbyhour.com Resistor color calculator
 
